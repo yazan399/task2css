@@ -1,0 +1,72 @@
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.all{
+    margin-left: 20%;
+
+} 
+.x{
+    font-size: 20px;
+    font-weight: 800;
+}
+p{
+    text-align: left;
+}
+.firsthalf{
+display: inline-block;
+}
+.secondhalf{
+margin-top: 10px;
+}
+h2{
+    margin-bottom: 80px;
+}
+.divi{
+    border: solid 2px rgb(239, 231, 231);
+    margin-bottom: 20px;
+    margin-right: 5px;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 100px; ;
+}
+.green{
+    color:green;
+   float: left;
+   padding-right: 10px;
+}
+.red{
+    color:red;
+margin-bottom:5px;
+}
+svg{
+    width: 20px;
+    
+}
+.chart svg{
+    margin-right:15px ;
+    fill: white;
+
+}
+.chart{
+    padding:8.5px 5px 8.5px 5px ;
+    margin-right: 5px;
+    background-color: blue;
+    color: white;
+    border: solid 2px blue;
+
+
+}
+.heart{
+    background-color: white;
+    margin-top: 5px;
+    padding: 3px;
+    border: solid 2px blue;
+}
+.heart svg{
+fill: blue;
+}
